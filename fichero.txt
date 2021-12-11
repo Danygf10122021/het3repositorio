@@ -1,0 +1,5 @@
+Estoy trabajando en este fichero desde la rama MAIN.
+He abierto un VIM para el fichero.txt
+
+Y AHORA MISMO ESTOY TRABAJANDO EN EL FICHERO.TXT DESDE
+OTRA RAMA, LLAMADA "RAMANUEVA".
